@@ -1,0 +1,8 @@
+#messagesborder{
+	width:10%;
+	height:30%;
+	overflow-y:scroll;
+	border-color:black;
+	border-style:solid;
+	border-width:1px;
+}
